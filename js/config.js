@@ -115,6 +115,116 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
+    xingba: {
+        api: 'https://xingba111.com/api.php/provide/vod/',
+        name: '杏吧资源',
+        adult: true
+    },
+    siwa: {
+        api: 'https://siwazyw.tv/api.php/provide/vod/',
+        name: '丝袜资源',
+        adult: true
+    },
+        putao: {
+        api: 'https://caiji.putaozyw.net/inc/apijson_vod_dx.php',
+        name: '葡萄资源',
+        adult: true
+    },
+    semao {
+        api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
+        name: '色猫资源',
+        adult: true
+    },
+    senlin: {
+        api: 'https://slapibf.com/api.php/provide/vod/',
+        name: '森林资源',
+        adult: true
+    },
+        aosika: {
+        api: 'https://aosikazy.com/api.php/provide/vod/',
+        name: '奥斯卡资源',
+        adult: true
+    },
+    fanhao: {
+        api: 'http://fhapi9.com/api.php/provide/vod/',
+        name: '番号资源',
+        adult: true
+    },
+    caoliu: {
+        api: 'https://www.caoliuzyw.com/api.php/prodao/vod/',
+        name: '草榴资源',
+        adult: true
+    },
+        115: {
+        api: 'https://155api.com/api.php/provide/vod/',
+        name: '155资源',
+        adult: true
+    },
+        huanggua: {
+        api: 'https://www.avre06.com/api.php/Prodao/vod/',
+        name: '黄瓜资源',
+        adult: true
+    },
+    naixiangxiang: {
+        api: 'https://naixxzy.com/api.php/provide/vod/',
+        name: '奶香香资源',
+        adult: true
+    },
+    botiantang: {
+        api: 'http://bttcjz.com/inc/sapi.php',
+        name: '博天堂资源',
+        adult: true
+    },
+        baiwan: {
+        api: 'https://api.bwzyz.com/api.php/provide/vod/',
+        name: '百万资源',
+        adult: true
+    },
+        gay: {
+        api: 'https://gayapi.com/api.php/provide/vod/',
+        name: 'gay资源',
+        adult: true
+    },
+    taohua: {
+        api: 'https://thzy1.me/api.php/provide/vod/',
+        name: '桃花资源',
+        adult: true
+    },
+    dadi: {
+        api: 'https://dadiapi.com/api.php',
+        name: '大地资源',
+        adult: true
+    },
+    lajiao: {
+        api: 'https://apilj.com/api.php/provide/vod/',
+        name: '辣椒资源',
+        adult: true
+    },
+    didi: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod/',
+        name: '滴滴资源',
+        adult: true
+    },
+    shayu: {
+        api: 'https://shayuapi.com/api.php/provide/vod/',
+        name: '鲨鱼资源',
+        adult: true
+    },
+    jkun: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'JKUN资源',
+        adult: true
+    },
+    ckziyuan: {
+        api: 'https://ckzy.me/api.php/provide/vod/',
+        name: 'CK资源',
+        adult: true
+    },
+    laosebi: {
+        api: 'https://apilsbzy1.com/api.php/provide/vod/',
+        name: '老色逼资源',
+        adult: true
+    },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
     // 互联网上传播的色情内容将人彻底客体化、工具化，是性别解放和人类平等道路上的巨大障碍。
     // 这些黄色影片是资本主义父权制压迫的最恶毒体现，它将暴力和屈辱商品化，践踏人的尊严，对受害者造成无法弥愈的伤害，并毒害社会关系。
