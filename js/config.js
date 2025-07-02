@@ -110,9 +110,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    huangcang: {
-        api: 'https://hsckzy.vip',
-        name: '黄色仓库',
+    yutu: {
+        api: 'https://apiyutu.com/api.php/provide/vod/',
+        name: '玉兔资源',
         adult: true
     },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
